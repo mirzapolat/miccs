@@ -1,0 +1,13 @@
+C:\PROJEKTE\VS 2017\C#\MICCS_2\MICCS_2\obj\Debug\MICCS_2.csprojResolveAssemblyReference.cache
+C:\PROJEKTE\VS 2017\C#\MICCS_2\MICCS_2\obj\Debug\MICCS_2.MICCS.resources
+C:\PROJEKTE\VS 2017\C#\MICCS_2\MICCS_2\obj\Debug\MICCS_2.Properties.Resources.resources
+C:\PROJEKTE\VS 2017\C#\MICCS_2\MICCS_2\obj\Debug\MICCS_2.csproj.GenerateResource.cache
+C:\PROJEKTE\VS 2017\C#\MICCS_2\MICCS_2\obj\Debug\MICCS_2.csproj.CoreCompileInputs.cache
+C:\PROJEKTE\VS 2017\C#\MICCS_2\MICCS_2\bin\Debug\MICCS.exe.config
+C:\PROJEKTE\VS 2017\C#\MICCS_2\MICCS_2\bin\Debug\MICCS.exe
+C:\PROJEKTE\VS 2017\C#\MICCS_2\MICCS_2\bin\Debug\MICCS.pdb
+C:\PROJEKTE\VS 2017\C#\MICCS_2\MICCS_2\obj\Debug\MICCS.exe
+C:\PROJEKTE\VS 2017\C#\MICCS_2\MICCS_2\obj\Debug\MICCS.pdb
+C:\PROJEKTE\VS 2017\C#\MICCS_2\MICCS_2\obj\Debug\MICCS_2.Installation.resources
+C:\PROJEKTE\VS 2017\C#\MICCS_2\MICCS_2\obj\Debug\MICCS_2.Settings.resources
+C:\PROJEKTE\VS 2017\C#\MICCS_2\MICCS_2\obj\Debug\MICCS_2.Funktionen.resources
